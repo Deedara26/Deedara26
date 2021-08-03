@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Deedara26
 - 👀 I’m interested in learning programming
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on some existing project
+- 💞️ I’m looking to collaborate on some existing projects 
 - 📫 How to reach me deeabilkarim@gmail.com
 
 <!---
